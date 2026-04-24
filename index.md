@@ -17,7 +17,15 @@ their desire for livestreaming on a scale of 1-7.
 ## Analysis
 The data strongly supports adding livestreaming to COMP 110. 301 out of 764 
 students gave the highest possible rating of 7, and the majority of students 
-rated it 5 or above regardless of their UNC status or prior programming experience
+rated it 5 or above regardless of their UNC status or prior programming experience.
+
+## Charts
+
+![Chart 1](/comp110analysis/static/imgs/Chart1.png)
+
+![Chart 2](/comp110analysis/static/imgs/Chart2.png)
+
+![Chart 3](/comp110analysis/static/imgs/Chart3.png)
 
 ## Conclusion
 These findings strongly point towards the benefits that can be brought 
