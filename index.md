@@ -18,6 +18,7 @@ their desire for livestreaming on a scale of 1-7.
 The data strongly supports adding livestreaming to COMP 110. 301 out of 764 
 students gave the highest possible rating of 7, and the majority of students 
 rated it 5 or above regardless of their UNC status or prior programming experience.
+I looked at the data in the add_livestream survey column, which asked 764 students to indicate their interest level regarding livestreaming on a scale from 1 (Strongly Disagree) to 7 (Strongly Agree). In my code, I first loaded both survey datasets through the use of the read_csv_rows and concat functions, and then selected and viewed the relevant data using the select and head functions. Using the count method, I saw that there were 301 out of 764 people who rated this item a 7 (Strongly Agree), with most of them giving it a rating of 5 or higher. I decided to generate three visualizations that would help me understand this phenomenon further. Through a bar chart, I could see how unanimous the respondents were on this issue. Through a boxplot, I found that this strong desire for livestreaming is universal across all UNC levels – freshman, sophomore, junior, senior, and graduate. With the violin plot, I was able to determine that no matter whether students had any previous experience in coding, they all desired to have lectures livestreamed. 
 
 ## Charts
 
